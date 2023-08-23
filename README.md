@@ -1,2 +1,3 @@
 # Go-with-WebSocket
-Collection of xamples used for learning websocket through nhooyr/websocket package.
+
+Collection of example used for learning websocket through nhooyr/websocket package.
